@@ -179,7 +179,7 @@ const generalAlgorithm = (value, power) => {
               let repeats = false;
               for (let x of h) {
                 console.log([x[0],object[0]])
-                if (x[0] === object[0]) {
+                if (JSON.stringify(x[0]) === JSON.stringify(object[0])) {
                   
                   repeats = true;
                   // break;
@@ -193,7 +193,7 @@ const generalAlgorithm = (value, power) => {
         if (!dataCopy[i][1]) {
           let repeats = false;
           for (let x of h) {
-            if (x[0] === dataCopy[i][0]) {
+            if (JSON.stringify(x[0]) === JSON.stringify(dataCopy[i][0])) {
               repeats = true;
               break;
             }
