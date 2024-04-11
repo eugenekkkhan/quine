@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/quinedeploy/static/css/main.73ceae9f.css",
-    "main.js": "/quinedeploy/static/js/main.9c00ea29.js",
+    "main.js": "/quinedeploy/static/js/main.d1de7fd6.js",
     "static/js/453.d3711c03.chunk.js": "/quinedeploy/static/js/453.d3711c03.chunk.js",
     "static/media/KaTeX_AMS-Regular.ttf": "/quinedeploy/static/media/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf",
     "static/media/KaTeX_Main-Regular.ttf": "/quinedeploy/static/media/KaTeX_Main-Regular.9eba1d77abcf2aa6e94e.ttf",
@@ -90,11 +90,11 @@
     "static/media/jetbrains-mono-cyrillic-ext-100-normal.woff2": "/quinedeploy/static/media/jetbrains-mono-cyrillic-ext-100-normal.9e6fa66704fefcc86efb.woff2",
     "index.html": "/quinedeploy/index.html",
     "main.73ceae9f.css.map": "/quinedeploy/static/css/main.73ceae9f.css.map",
-    "main.9c00ea29.js.map": "/quinedeploy/static/js/main.9c00ea29.js.map",
+    "main.d1de7fd6.js.map": "/quinedeploy/static/js/main.d1de7fd6.js.map",
     "453.d3711c03.chunk.js.map": "/quinedeploy/static/js/453.d3711c03.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.73ceae9f.css",
-    "static/js/main.9c00ea29.js"
+    "static/js/main.d1de7fd6.js"
   ]
 }
