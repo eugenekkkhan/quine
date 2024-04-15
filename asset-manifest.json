@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/quinedeploy/static/css/main.73ceae9f.css",
-    "main.js": "/quinedeploy/static/js/main.d1de7fd6.js",
-    "static/js/453.d3711c03.chunk.js": "/quinedeploy/static/js/453.d3711c03.chunk.js",
+    "main.css": "/quinedeploy/static/css/main.25365e19.css",
+    "main.js": "/quinedeploy/static/js/main.5c0f0865.js",
+    "static/js/453.4d69dbbc.chunk.js": "/quinedeploy/static/js/453.4d69dbbc.chunk.js",
     "static/media/KaTeX_AMS-Regular.ttf": "/quinedeploy/static/media/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf",
     "static/media/KaTeX_Main-Regular.ttf": "/quinedeploy/static/media/KaTeX_Main-Regular.9eba1d77abcf2aa6e94e.ttf",
     "static/media/KaTeX_Main-Bold.ttf": "/quinedeploy/static/media/KaTeX_Main-Bold.8169508bf58f8bd92ad8.ttf",
@@ -89,12 +89,12 @@
     "static/media/jetbrains-mono-cyrillic-ext-400-normal.woff2": "/quinedeploy/static/media/jetbrains-mono-cyrillic-ext-400-normal.116395f5d16bf9918fd9.woff2",
     "static/media/jetbrains-mono-cyrillic-ext-100-normal.woff2": "/quinedeploy/static/media/jetbrains-mono-cyrillic-ext-100-normal.9e6fa66704fefcc86efb.woff2",
     "index.html": "/quinedeploy/index.html",
-    "main.73ceae9f.css.map": "/quinedeploy/static/css/main.73ceae9f.css.map",
-    "main.d1de7fd6.js.map": "/quinedeploy/static/js/main.d1de7fd6.js.map",
-    "453.d3711c03.chunk.js.map": "/quinedeploy/static/js/453.d3711c03.chunk.js.map"
+    "main.25365e19.css.map": "/quinedeploy/static/css/main.25365e19.css.map",
+    "main.5c0f0865.js.map": "/quinedeploy/static/js/main.5c0f0865.js.map",
+    "453.4d69dbbc.chunk.js.map": "/quinedeploy/static/js/453.4d69dbbc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.73ceae9f.css",
-    "static/js/main.d1de7fd6.js"
+    "static/css/main.25365e19.css",
+    "static/js/main.5c0f0865.js"
   ]
 }
